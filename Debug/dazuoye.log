@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  dazuoye.cpp
+  dazuoyeDoc.cpp
+  dazuoyeView.cpp
+C:\Users\Lml\source\repos\dazuoy\dazuoye\dazuoyeView.cpp(488,14): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\Lml\source\repos\dazuoy\dazuoye\dazuoyeView.cpp(489,14): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\Lml\source\repos\dazuoy\dazuoye\dazuoyeView.cpp(494,13): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\Lml\source\repos\dazuoy\dazuoye\dazuoyeView.cpp(495,13): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\Lml\source\repos\dazuoy\dazuoye\dazuoyeView.cpp(499,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lml\source\repos\dazuoy\dazuoye\dazuoyeView.cpp(499,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  MainFrm.cpp
+  正在生成代码...
+  dazuoye.vcxproj -> C:\Users\Lml\source\repos\dazuoy\Debug\dazuoye.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
